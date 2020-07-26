@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="en-US">
+
+<!-- Mirrored from www.pickagame.com.ng/join-a-game by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 26 Jul 2020 14:09:02 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<title>Join a game | Pickagame</title>
+
+<link rel="icon" href="images/favicon.png" sizes="32x32" />
+
+<link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.min9dff9dff.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpb-google-icons-css'  href='http://fonts.googleapis.com/icon?family=Material+Icons&amp;ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/css-css'  href='wp-content/themes/matchmade-theme/dist/styles/main-91d689c239.css' type='text/css' media='all' />
+<script type='text/javascript' src='wp-includes/js/jquery/jquery4a5f4a5f.js?ver=1.12.4-wp'></script>
+
+<!-- Other tags... -->
+<link rel="preload" href="wp-content/themes/matchmade-theme/dist/fonts/GT-Walsheim-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="wp-content/themes/matchmade-theme/dist/fonts/GT-Walsheim-Medium.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157126560-2"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-157126560-2');
+</script>
+<script>
+(function(h,o,t,j,a,r){
+h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+h._hjSettings={hjid:1811946,hjsv:6};
+a=o.getElementsByTagName('head')[0];
+r=o.createElement('script');r.async=1;
+r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+a.appendChild(r);
+})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+</head>
+
+<body class="page-template page-template-template-page-builder page-template-template-page-builder-php page page-id-253 cookies-not-set careers">
+
+<header class="banner">
+<div class="container-fluid">
+<div class="row justify-content-between align-items-center">
+<a class="brand" href="index.html">
+<img src="images/pick1.png" alt="Pickagame Logo" />
+</a>
+<nav class="nav-primary align-self-center">
+<div class="menu-menu-1-container"><ul id="menu-menu-1" class="nav"><li id="menu-item-2820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2820"><a href="login.html">Create a Game</a></li>
+<li id="menu-item-2819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2819"><a href="join-a-game">Join a Game</a></li>
+<li id="menu-item-2821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2821"><a href="claim-prize.html">Prizes</a></li>
+<li id="menu-item-3309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3309"><a href="faq.html">FAQ</a>
+</li>
+</ul>
+</div>
+</nav>
+
+<nav class="nav-primary nav-secondary align-self-center">
+<div class="mobile-primary">
+<div class="menu-menu-1-container">
+<ul id="menu-menu-2" class="nav">
+<li id="menu-item-2820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2820"><a href="login.html">Create a Game</a></li>
+<li id="menu-item-2819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2819"><a href="join-a-game">Join a Game</a></li>
+<li id="menu-item-2821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2821"><a href="claim-prize.html">Prizes</a></li>
+<li id="menu-item-3309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3309"><a href="faq.html">FAQ</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="menu-secondary-nav-container">
+<ul id="menu-secondary-nav" class="nav">
+<li id="menu-item-2832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2832"><a href="privacy-policy.html">Privacy Policy</a>
+</li>
+</ul>
+</div>
+<div class="nav-ctas">
+<a href="sign-up.html" class="login btn small">Sign Up</a>
+<a href="login.html" class="btn secondary small">Login</a>
+</div>
+</nav>
+
+<div class="nav-burger">
+<span class="line first"></span>
+<span class="line second"></span>
+<span class="line third"></span>
+</div>
+</div>
+</div>
+</header>
+
+<div class="wrap-main bg white theme-black" role="document">
+<main>
+
+<section class="one_column bg no-bg" >
+<div class="container">
+<div class="row justify-content-center padding-small">
+<div class="col-md-12">
+<div class="text-block no-limit">
+<h1 style="text-align: center;">Take the lead</h1>
+<p style="text-align: center;">Search and join games in the system.</p>
+<form action="http://www.pickagame.com.ng/game" method="get">
+<div class="row">
+<div class="col-md-2"></div>
+<div class="col-md-2"></div>
+
+<div class="col-md-4 form-group">
+<input type="text" name="ref" required placeholder="Enter game ref ID">
+</div>
+
+<div class="col-md-2"></div>
+<div class="col-md-2"></div>
+</div>
+<br>
+<p style="text-align: center;">
+<button type="submit" class="secondary btn">Search game ref</button>
+</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<!-- <section class="one_column bg no-bg" >
+<div class="container">
+<div class="row justify-content-center padding-medium">
+<div class="col-md-8">
+<div class="in-numbers">
+<div class="number-wrapper">
+<span class="number">0</span>
+<span class="description small"></span>
+<p class="small">Players</p>
+</div>
+<div class="number-wrapper">
+<span class="number">6</span>
+<span class="description small"></span>
+<p class="small">Games</p>
+</div>
+<div class="number-wrapper">
+<span class="number">9</span>
+<span class="description small"></span>
+<p class="small">Happy people </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section> -->
+
+<section class="two-column bg no-bg"  >
+<div class="container">
+<div class="row align-items-center padding-large">
+<div class="col-md-5 mb-order-2">
+<div class="text-block no-limit">
+<h2>Get involved</h2>
+<p>Our goal is to create a fun way for friends to connect.</p>
+<p>Have unlimited fun with your friends, share gifts and earn along side when you create a game.</p>
+
+</div>
+</div>
+<div class="col-md-7 mb-order-1">
+
+<div class="image-block align-left">
+<img class="image-block" src="images/world.png" alt="World" />
+</div>
+
+
+</div>
+</div>
+</div>
+</section>
+
+
+<script type='text/javascript' src='wp-content/themes/matchmade-theme/dist/scripts/main-f3fca2f160.js'></script>
+</body>
+
+<!-- Mirrored from www.pickagame.com.ng/join-a-game by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 26 Jul 2020 14:09:03 GMT -->
+</html>
